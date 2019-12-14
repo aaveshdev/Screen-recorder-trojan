@@ -16,7 +16,11 @@ namespace Remote_view
 {
     public partial class Form2 : Form
     {
-        
+        /* 
+     Written by 
+     Aavesh Jilani
+     */
+     
         public readonly int port;
         private TcpClient client;
         private TcpListener server;
