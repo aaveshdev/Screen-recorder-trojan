@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\bin\Release\service remote.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\bin\Release\service remote.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\bin\Release\service remote.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\obj\Release\service_remote.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\obj\Release\service_remote.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\obj\Release\service remote.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\obj\Release\service remote.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\obj\Release\service remote.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\service remote\service remote\obj\Release\service remote.csprojResolveAssemblyReference.cache
