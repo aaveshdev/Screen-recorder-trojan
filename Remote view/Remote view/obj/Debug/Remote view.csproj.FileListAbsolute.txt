@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\bin\Debug\Remote view.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\bin\Debug\Remote view.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\bin\Debug\Remote view.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote view.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote_view.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote_view.Form2.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote_view.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote view.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote view.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Remote view\Remote view\obj\Debug\Remote view.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\bin\Release\Remote view.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\bin\Release\Remote view.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\bin\Release\Remote view.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\obj\Release\Remote_view.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\obj\Release\Remote_view.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\obj\Release\Remote_view.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\obj\Release\Remote view.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\obj\Release\Remote view.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Remote view\Remote view\obj\Release\Remote view.pdb
