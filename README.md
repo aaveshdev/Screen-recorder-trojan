@@ -1,2 +1,2 @@
 # Screen-recorder-trojan
-a screen recoder trojan for windows os
+a screen recoder trojan for Windows OS
