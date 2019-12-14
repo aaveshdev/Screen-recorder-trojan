@@ -17,6 +17,11 @@ namespace service_remote
 {
     public partial class Form1 : Form
     {
+    /* 
+     Written by 
+     Aavesh Jilani
+     */
+    
         private readonly TcpClient client = new TcpClient();
         private NetworkStream mainstream;
         private int port;
@@ -24,6 +29,7 @@ namespace service_remote
         private static Image GrabDesktop()
         {
             Rectangle bounds = Screen.PrimaryScreen.Bounds;
+	    //screen size bitmap
             Bitmap screenshot = new Bitmap(bounds.Width, bounds.Height, PixelFormat.Format32bppArgb);
             try
             {
